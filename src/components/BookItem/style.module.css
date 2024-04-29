@@ -1,0 +1,9 @@
+.bookItemContainer {
+    max-width: 150px;
+}
+
+.bookImage {
+    height: 226px;
+    width: 150px;
+    object-fit: cover;
+}
