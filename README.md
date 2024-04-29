@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Book List Page
 
-## Getting Started
+This project is a web application aimed at managing a list of books. It includes features such as displaying a list of books with their titles, authors, and prices, as well as allowing users to add new books via a form. The application also supports multilingual functionality, allowing users to switch between English and Dutch languages.
 
-First, run the development server:
+## Thought Process
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Main Page with Book List:** The main objective is to provide users with a clear and organized view of the available books. Each book should be represented with its title, author, and price for easy browsing.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Add Book Form:** To enable users to contribute to the book list, a separate form page is essential. This form should collect necessary information such as the book's title, author, and price. Client-side validation ensures that submitted data is accurate and complete.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Multilingual Support:** Considering potential international users, implementing basic multilingual support enhances accessibility. By allowing users to switch between English and Dutch languages, I ensure that textual content is understandable and user-friendly.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Navigation:** Seamless navigation between the main page and the add book form page improves user experience. Clear and intuitive navigation enhances usability and encourages user engagement.
 
-## Learn More
+- **Optimization and Best Practices:** Prioritizing performance optimization and adhering to coding best practices ensures that the application runs smoothly and efficiently. Clean and well-commented code facilitates maintenance and collaboration among developers.
 
-To learn more about Next.js, take a look at the following resources:
+- **Enhanced SEO Performance:** Leveraging Next.js features for improved SEO performance increases the visibility and discoverability of the application. Implementing SEO best practices enhances the application's reach and engagement.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Persistent Submissions:** Enabling persistence of submissions across page reloads and sharing between users enhances user experience and data integrity. By storing submissions securely, users can access their data seamlessly, promoting user satisfaction and retention.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Setup Instructions
 
-## Deploy on Vercel
+1. Clone the repository
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+git clone https://github.com/
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+2. Install dependencies using
+
+`npm install`.
+
+3. Run the development server using
+
+`npm run dev`.
+
+## Technologies Used
+
+- React.js: A JavaScript library for building user interfaces.
+- Next.js: A React framework for server-rendered applications.
+- HTML: The standard markup language for web pages.
+- CSS: The style sheet language for styling web pages.
+- JavaScript: The programming language for web development.
+
+## Folder Structure
+
+- `components/`: Contains reusable React components for building the user interface.
+- `pages/`: Includes Next.js pages for defining the application's routes and views.
+- `public/`: Stores static assets such as images, icons, and fonts.
+
+## Contributors
+
+- Sabisa Siganga (https://github.com/sabisa-siganga)
