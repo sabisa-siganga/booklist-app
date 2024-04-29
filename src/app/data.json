@@ -1,0 +1,80 @@
+[
+	{
+	  "id": 1,
+	  "title": "To Kill a Mockingbird",
+	  "author": "Harper Lee",
+	  "price": "$9.99",
+	  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg"
+	},
+	{
+	  "id": 2,
+	  "title": "1984",
+	  "author": "George Orwell",
+	  "price": "$10.99",
+	  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661032875i/11127.jpg"
+	},
+	{
+	  "id": 3,
+	  "title": "The Great Gatsby",
+	  "author": "F. Scott Fitzgerald",
+	  "price": "$8.49",
+	  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551144577i/18405._SY75_.jpg"
+	},
+	{
+	  "id": 4,
+	  "title": "The Catcher in the Rye",
+	  "author": "J.D. Salinger",
+	  "price": "$7.99",
+	  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557343311i/10210._SY75_.jpg"
+	},
+	{
+	  "id": 5,
+	  "title": "To the Lighthouse",
+	  "author": "Virginia Woolf",
+	  "price": "$12.50",
+	  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443i/157993._SY75_.jpg"
+	},
+	{
+	  "id": 6,
+	  "title": "Moby-Dick",
+	  "author": "Herman Melville",
+	  "price": "$11.25",
+	  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618526890i/13335037._SY75_.jpg"
+	},
+	{
+	  "id": 7,
+	  "title": "Brave New World",
+	  "author": "Aldous Huxley",
+	  "price": "$9.75",
+	  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg"
+	},
+	{
+	  "id": 8,
+	  "title": "Pride and Prejudice",
+	  "author": "Jane Austen",
+	  "price": "$6.99",
+	  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg"
+	},
+	{
+	  "id": 9,
+	  "title": "Crime and Punishment",
+	  "author": "Fyodor Dostoevsky",
+	  "price": "$10.20",
+	  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg"
+	},
+	{
+	  "id": 10,
+	  "title": "The Picture of Dorian Gray",
+	  "author": "Oscar Wilde",
+	  "price": "$8.95",
+	  "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400602609i/28187._SY75_.jpg"
+	},
+	{
+	  "id": 11,
+	  "title": "The Viscount Who Loved Me",
+	  "author": "Julia Quinn",
+	  "price": "$13.99",
+	  "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052.jpg"
+	}
+  ]
+  
