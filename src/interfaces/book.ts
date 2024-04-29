@@ -8,3 +8,11 @@ export interface BookInterface {
 	price: string;
 }
 
+export type FormValues = { value: string; error: string };
+
+export interface BookFormInterface {
+	image: FormValues;
+	title: FormValues;
+	author: FormValues;
+	price: FormValues;
+}

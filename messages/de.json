@@ -1,0 +1,28 @@
+{
+	"nav": {
+		"title": "Buchhandlung",
+		"home": "Startseite",
+		"addBook": "Buch hinzufügen"
+	},
+	"home": {
+		"loading": "Lade Bücher..."
+	},
+	"localeSwitcher": {
+		"locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unbekannt}}"
+	},
+	"addBook": {
+		"title": "Neues Buch hinzufügen",
+		"form": {
+			"title": "Titel",
+			"titlePlaceholder": "Buchtitel eingeben",
+			"author": "Autor",
+			"authorPlaceholder": "Buchautor eingeben",
+			"price": "Preis",
+			"pricePlaceholder": "Buchpreis eingeben",
+			"image": "Bild-URL",
+			"imagePlaceholder": "Link zum Buchbild eingeben",
+			"submit": "Buch hinzufügen"
+		},
+		"required": "{key} ist erforderlich"
+	}
+}

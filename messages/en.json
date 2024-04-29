@@ -1,0 +1,28 @@
+{
+	"nav": {
+		"title": "Book Store",
+		"home": "Home",
+		"addBook": "Add Book"
+	},
+	"home": {
+		"loading": "Loading books..."
+	},
+	"localeSwitcher": {
+		"locale": "{locale, select, de {🇩🇪 Deutsch} en {🇺🇸 English} other {Unknown}}"
+	},
+	"addBook": {
+		"title": "Add new book",
+		"form": {
+			"title": "Title",
+			"titlePlaceholder": "Enter book title",
+			"author": "Author",
+			"authorPlaceholder": "Enter book author",
+			"price": "Price",
+			"pricePlaceholder": "Enter book price",
+			"image": "Image URL",
+			"imagePlaceholder": "Enter book image link",
+			"submit": "Add Book"
+		},
+		"required": "{key} is required"
+	}
+}
