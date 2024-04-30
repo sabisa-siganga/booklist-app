@@ -22,7 +22,7 @@ This project is a web application aimed at managing a list of books. It includes
 
 1. Clone the repository
 
-git clone https://github.com/
+git clone [https://github.com/sabisa-siganga/booklist-app.git](https://github.com/sabisa-siganga/booklist-app.git)
 
 2. Install dependencies using
 
