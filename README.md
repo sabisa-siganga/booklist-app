@@ -36,6 +36,7 @@ git clone [https://github.com/sabisa-siganga/booklist-app.git](https://github.co
 
 - React.js: A JavaScript library for building user interfaces.
 - Next.js: A React framework for server-rendered applications.
+- next-intl: For internationalization
 - HTML: The standard markup language for web pages.
 - CSS: The style sheet language for styling web pages.
 - JavaScript: The programming language for web development.
